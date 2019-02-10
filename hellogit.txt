@@ -1,2 +1,3 @@
 I am learning to use github.  I am using a tutorial that was recommended by the Kal Academy 
-I am editing this file
+I am editing this file.  
+I will add then commit then push
